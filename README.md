@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+If you are interested in my hackerrank profile here it is [hackerrank.com/simonppg](https://www.hackerrank.com/simonppg) and this is a repository with my solutions [@hackerrank](https://github.com/simonppg/hackerrank)
 <!--
 **simonppg/simonppg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
